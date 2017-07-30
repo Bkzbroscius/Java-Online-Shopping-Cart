@@ -1,0 +1,212 @@
+.logo {
+    float: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+#searchfield {
+    float: right;
+    padding: 0 60px 90 50;
+   
+}
+
+body {
+    width: 100%;
+    background-color: #34eded;
+    margin: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+#header {
+    margin: 0;
+    padding: 5px 0 0 30px;
+    background-color: #00008b;
+    color: #ffffff;
+    width: 100%;
+}
+ .leftpic {
+ 	padding-left: 100px;
+ }
+h1 {
+  margin: 30px;
+  position: relative;
+  left: 20px;
+  padding-bottom: 20px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    float: left;
+    font-size: 20px;
+    padding: 0 10px;
+  
+}
+
+.menu ul li {
+    list-style-type: none;
+}
+
+footer {
+    height: auto;
+    background-color: #00008b;
+}
+ a.menu:link, a:menu:visited {
+	color: blue;
+}
+
+.Logo a:link, .Logo a:visited {
+	color: #ffffff;
+}
+#search {
+    padding-top: 0;
+    margin-right: 60px;
+}
+
+.menu {
+    margin-left: 0;
+}
+
+.products h3 {
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+    padding: 40px 0 60px 0;
+    /* position: relative;*/
+   /* left: 100px; */
+
+}
+
+div.products {
+    color: #00008b;
+}
+
+a {
+    text-decoration: none;
+}
+.price {
+    font-size: 2.5em;
+    padding-right: 20%;
+}
+
+#register {
+    width: 200px;
+}
+
+.addItem p{
+    padding-top: 20px;
+    margin: 0;
+    color: #4d084d;
+  
+}
+
+#submitbut {
+    background: #2323e5;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#shippingForm input {
+    padding: 3px;
+    width: 30%;
+    margin: 5px;
+}
+
+#shipping {
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.cart {
+    width: 30px;
+    height: 30px;
+    
+}
+.produce {
+    width: 300px;
+    height: 300px;
+}
+
+.prods div {
+    display: inline-block;   
+}
+
+.prods {
+    padding-top: 100px;
+}
+
+.pics {
+    padding-right: 10px;
+}
+
+
+.para {
+    font-weight: bold;
+    text-align: center;
+    color: #05051d;
+    font-size: 2.5em;
+}
+#image1 {
+    margin-left: 25%;
+}
+
+#image2 {
+    margin-left: 15%;
+}
+
+.image img {
+   border-radius: 10px; 
+}
+
+.image {
+    font-size: 30px;
+}
+
+.image p { 
+    text-align: center;
+}
+
+.plant {
+    width: 600px;
+    height: 400px;
+}
+
+ .big {
+    margin-left: auto;
+    margin-right: 0;
+    padding-left: 20px;
+}
+
+.frm {
+    text-align: center;
+    display: block;
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    
+}
+
+#login {
+    width:50px;
+    height: 30px;
+    position: relative;
+    left; 75%;
+}
+
+.order a {
+	font-size: 20px;
+	color: blue;
+}
+
+.tformat {
+	padding-top: 10%;
+}
+
+.left {
+	padding-left: 100px;
+}
